@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lê Duy Công</string>
+    <string name="Display">Display</string>
+    <string name="Exit">Exit</string>
+    <string name="Name">Name</string>
+    <string name="Email">Email</string>
+    <string name="Gender">Gender</string>
+    <string name="radFemale">Female</string>
+    <string name="radMale">Male</string>
+    <string name="name" />
+
+
+</resources>
